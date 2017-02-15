@@ -1,0 +1,5 @@
+# Day 4, 2-9-17
+
+Most of what I learned related to links and layout. I didn't know that entire block elements could be made into links, although it makes sense now that I think about it.
+
+The chapter on fixed and liquid layouts was probably my favorite.
